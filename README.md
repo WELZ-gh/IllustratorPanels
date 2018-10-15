@@ -5,7 +5,7 @@ A compilation of screenshots of various panels in Adobe Illustrator (CS6) with r
 They add a clean and proffessional aesthetic to your posts.
 ## Links:
 
-* [Window Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Window-%E2%86%92-*)
+* [Window Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Window)
 
 ___
 
