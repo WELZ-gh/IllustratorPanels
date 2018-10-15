@@ -6,6 +6,7 @@ They add a clean and proffessional aesthetic to your posts.
 
 ## 🔗 Links:
 
+* [Effect Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Effect)
 * [Window Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Window)
 
 ___
