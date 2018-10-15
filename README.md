@@ -1,4 +1,4 @@
-# Illustrator Panels
+# Illustrator Panels ![](https://i.stack.imgur.com/ilYrn.png)
 
 A compilation of screenshots of various panels in Adobe Illustrator (CS6) with rounded corners and glowing edges. 
 
