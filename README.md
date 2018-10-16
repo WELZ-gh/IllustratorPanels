@@ -1,8 +1,11 @@
 # ![](https://i.stack.imgur.com/ilYrn.png) Illustrator Panels 
 
-A compilation of screenshots of various panels in Adobe Illustrator (CS6) with rounded corners and glowing edges. 
+A compilation of screenshots of various panels/popups in Adobe design programs, with rounded corners and glowing edges.They add a clean and proffessional aesthetic to your posts.
 
-They add a clean and proffessional aesthetic to your posts.
+#### Programs:
+- Adobe Illustrator CS6
+- Adobe Photoshop CS6
+
 
 ## 🔗 Links:
 
