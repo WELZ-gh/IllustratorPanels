@@ -9,8 +9,13 @@ A compilation of screenshots of various panels/popups in Adobe design programs, 
 
 ## 🔗 Links:
 
-* [Effect Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Effect)
-* [Window Panels](https://github.com/WELZ-gh/IllustratorPanels/wiki/Window)
+#### Illustrator
+* [Effect Panels](https://github.com/WELZ-gh/Panels/wiki/Effect)
+* [Window Panels](https://github.com/WELZ-gh/Panels/wiki/Window)
+
+#### Photoshop
+* Window Panels
+
 
 ___
 
