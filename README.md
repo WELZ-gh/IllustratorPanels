@@ -1,6 +1,6 @@
 # ![](https://i.stack.imgur.com/ilYrn.png) Panels 
 
-A compilation of screenshots of various panels/popups in Adobe design programs, with rounded corners and glowing edges. They add a clean and proffessional aesthetic to your posts.
+A compilation of screenshots of various panels/popups in Adobe design programs, with rounded corners and glowing edges. They add a clean and proffessional aesthetic to your posts and tutorials.
 
 #### Programs
 - Adobe Illustrator CS6
