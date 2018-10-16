@@ -15,7 +15,7 @@ ____
 * [Window Panels](https://github.com/WELZ-gh/Panels/wiki/Window)
 
 #### Photoshop
-* Window Panels
+* [Window Panels](https://github.com/WELZ-gh/Panels/wiki/PS-Window)
 
 
 ___
