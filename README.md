@@ -2,7 +2,7 @@
 
 A compilation of screenshots of various panels/popups in Adobe design programs, with rounded corners and glowing edges. They add a clean and proffessional aesthetic to your posts.
 
-#### Programs:
+#### Programs
 - Adobe Illustrator CS6
 
 #### Coming Soon
