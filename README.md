@@ -4,8 +4,6 @@ A compilation of screenshots of various panels/popups in Adobe design programs, 
 
 #### Programs
 - Adobe Illustrator CS6
-
-#### Coming Soon
 - Adobe Photoshop CS6
 ____
 ## 🔗 Links:
