@@ -15,6 +15,9 @@ ____
 #### Photoshop
 * [Window Panels](https://github.com/WELZ-gh/Panels/wiki/PS-Window)
 
+#### InDesign
+* [Window Panels](https://github.com/WELZ-gh/Panels/wiki/ID-Window)
+
 
 ___
 
