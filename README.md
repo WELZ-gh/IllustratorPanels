@@ -4,6 +4,7 @@ A compilation of screenshots of various panels/popups in programs, with rounded 
 
 #### Programs
 - Adobe Illustrator CS6
+- Adobe InDesign CS6
 - Adobe Photoshop CS6
 ____
 ## 🔗 Links:
@@ -12,11 +13,11 @@ ____
 * [Effect Panels](https://github.com/WELZ-gh/Panels/wiki/Effect)
 * [Window Panels](https://github.com/WELZ-gh/Panels/wiki/Window)
 
-#### Photoshop
-* [Window Panels](https://github.com/WELZ-gh/Panels/wiki/PS-Window)
-
 #### InDesign
 * [Window Panels](https://github.com/WELZ-gh/Panels/wiki/ID-Window)
+
+#### Photoshop
+* [Window Panels](https://github.com/WELZ-gh/Panels/wiki/PS-Window)
 
 
 ___
